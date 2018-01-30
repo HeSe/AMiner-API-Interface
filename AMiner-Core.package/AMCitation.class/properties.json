@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "AMEntity",
+	"category" : "AMiner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bib",
+		"mla",
+		"apa",
+		"chicago"
+	],
+	"name" : "AMCitation",
+	"type" : "normal"
+}

@@ -6,11 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"result",
-		"querytype",
-		"time1",
-		"topics"
+		"data",
+		"status"
 	],
-	"name" : "AMAPIResponse",
+	"name" : "AMDataAPIResponse",
 	"type" : "normal"
 }

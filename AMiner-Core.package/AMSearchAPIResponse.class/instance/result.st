@@ -1,4 +1,3 @@
 accessing
 result
-
-	^result
+	^ result
