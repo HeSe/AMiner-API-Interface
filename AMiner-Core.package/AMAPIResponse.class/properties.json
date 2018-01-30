@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AMiner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"result",
+		"querytype",
+		"time1",
+		"topics"
+	],
+	"name" : "AMAPIResponse",
+	"type" : "normal"
+}

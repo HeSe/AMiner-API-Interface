@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AMiner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"znHttpClient",
+		"rawHttpResponse",
+		"result"
+	],
+	"name" : "AMAPIClient",
+	"type" : "normal"
+}

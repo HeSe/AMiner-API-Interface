@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "AMEntity",
+	"category" : "AMiner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bio",
+		"has_email_cr",
+		"homepage",
+		"has_email",
+		"edu",
+		"address",
+		"work",
+		"phone",
+		"fax",
+		"affiliation"
+	],
+	"name" : "AMContact",
+	"type" : "normal"
+}

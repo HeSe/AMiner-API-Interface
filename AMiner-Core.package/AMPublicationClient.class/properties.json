@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AMAPIClient",
+	"category" : "AMiner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AMPublicationClient",
+	"type" : "normal"
+}

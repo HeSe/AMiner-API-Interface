@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AMQueryParameter",
+	"category" : "AMiner-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AMPublicationQueryParameter",
+	"type" : "normal"
+}
