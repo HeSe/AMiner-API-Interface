@@ -1,5 +1,5 @@
 public
-getPublication: aParameter
+getPublications: aParameter
 
 	self path: '/api/search/pub/advanced'.
 	aParameter asQueryOn: self.
