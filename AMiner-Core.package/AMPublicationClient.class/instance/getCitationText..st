@@ -1,5 +1,5 @@
 public
-getCitation: anId
+getCitationText: anId
 
 	|responseObj citationData citation|
 
@@ -8,7 +8,7 @@ getCitation: anId
 	
 	responseObj := (AMDataAPIResponse parseMap: self get ).
 	
-	citation := AMCitation new.
+	citation := AMCitationText new.
 	
 	(responseObj status) = false
 		ifTrue:[^citation].
